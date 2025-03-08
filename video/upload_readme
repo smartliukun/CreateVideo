@@ -1,0 +1,11 @@
+YouTube 官方提供 YouTube Data API，可以用 Python 自动上传视频。
+
+1️⃣ 先启用 YouTube Data API
+步骤：
+
+访问 Google Cloud Console → https://console.cloud.google.com/
+创建一个新的项目
+启用 YouTube Data API v3
+创建 OAuth 2.0 凭据
+选择 "桌面应用" 或 "Web 应用"
+下载 client_secrets.json，用来授权 API 访问 YouTube
